@@ -23,9 +23,10 @@
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnriqueAnguianoVara)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=EnriqueAnguianoVara&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=EnriqueAnguianoVara&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueAnguianoVara&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueAnguianoVara)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### Certifications & Challenges
