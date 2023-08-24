@@ -14,7 +14,6 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 
-<img src="https://github.com/devicons/devicon/blob/master/" width="40" height="40"/>&nbsp;
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>&nbsp;
@@ -25,8 +24,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40"/>&nbsp;
-
-<img src="https://github.com/devicons/devicon/blob/mastericons/latex/latex-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/mastericons/latex/latex-original.svg" width="40" height="40"/>;
 
 </div>
 
