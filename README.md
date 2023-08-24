@@ -4,8 +4,7 @@
 
 ---
  
-<h2 align='center'>Since I was a child, I always want to be an "inventor" as my profession in the future. The ability to create new things from scratch always fascinates me. Now, I know that the nearest thing to a inventor this days is being a reseacher</h2>
-<h3 quote align='center'>Since I was a child, I always want to be an "inventor" as my profession in the future. The ability to create new things from scratch always fascinates me. Now, I know that the nearest thing to a inventor this days is being a reseacher</h3 quote>
+<h5 align='center'><i>"Since I was a child, I always want to be an "inventor" as my profession in the future. The ability to create new things from scratch always fascinates me. Now, I know that the nearest thing to a inventor this days is being a reseacher"</i></h5>
  
 ---
 
