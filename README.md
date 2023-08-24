@@ -1,7 +1,9 @@
+
+# Who am I?:
+### Backend & QC developer
+
 > Since I was a child, I always want to be an "inventor" as my profession in the future. The ability to create new things from scratch always fascinates me. Now, I know that the nearest thing to a inventor this days is being a reseacher
 
-# 💫 About Me:
-Backend & QC developer
 
 
 
