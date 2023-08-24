@@ -16,9 +16,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EnriqueAnguianoVara&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EnriqueAnguianoVara&theme=calm&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueAnguianoVara&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## Contact with me!
