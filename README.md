@@ -1,4 +1,4 @@
-<h1 align="center">Backend & QC developer & dotQ-research executive</h1>
+<h1 align="center">Backend & Quantum developer & dotQ-research executive</h1>
 
 ---
  
