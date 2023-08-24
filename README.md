@@ -16,7 +16,7 @@
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EnriqueAnguianoVara&theme=calm&hide_border=false)<br/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueAnguianoVara)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Certifications & Challenges
 
@@ -25,7 +25,6 @@ Here I need to put something
 
 ## Contact with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/enrique-anguiano-vara-6ba44625b) 
-
 
 
 
