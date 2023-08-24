@@ -31,7 +31,10 @@
 ---
 ### Certifications & Challenges
 
-<img src="https://www.credly.com/badges/f4563a02-b044-4997-900f-d595e18c0542/public_url" height="100"/>&nbsp;
+<img src="./credly/variational-algorithm-design.png" height="100"/>&nbsp;
+<img src="./credly/ibm-quantum-challenge-spring-2023-achievement.png" height="100"/>&nbsp;
+
+
 
 
 ## Contact with me!
