@@ -15,8 +15,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/mastericons/latex/latex-original.svg" width="40" height="40"/>;
-
 </div>
 
 ---
