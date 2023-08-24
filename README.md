@@ -6,7 +6,7 @@
  
 ---
 
-<div>
+<div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="100" height="100"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="100"/>&nbsp;
