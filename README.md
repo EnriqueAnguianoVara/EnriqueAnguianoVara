@@ -29,11 +29,13 @@
 
 ---
 ### Certifications & Challenges
-
-<img src="./credly/variational-algorithm-design.png"/>&nbsp;
+<div align="center">
+ <img src="./credly/variational-algorithm-design.png"/>&nbsp;
 <img src="./credly/ibm-quantum-challenge-spring-2023-achievement.png"/>&nbsp;
 <img src="./credly/python-for-data-science.png" height="161"/>&nbsp;
 <img src="./credly/machine-learning-with-python-level-1.png" height="161"/>&nbsp;
+</div>
+
 
 
 
