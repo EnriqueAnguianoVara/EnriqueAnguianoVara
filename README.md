@@ -14,14 +14,14 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 
+---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnriqueAnguianoVara)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueAnguianoVara)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 ### Certifications & Challenges
-
-Here I need to put something
 
 
 ## Contact with me!
