@@ -14,7 +14,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="100"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="100"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="100"/>&nbsp;
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/1200px-Qiskit-Logo.svg.png" width="100"/>&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbHuxKIeZyCaG4C8MEfTC1gDTptSxhgerq7A&usqp=CAU" width="100"/>&nbsp;
