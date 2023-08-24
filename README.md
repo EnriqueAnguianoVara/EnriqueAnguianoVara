@@ -2,7 +2,12 @@
 # Who am I?:
 ### Backend & QC developer & dotQ executive
 
-> Since I was a child, I always want to be an "inventor" as my profession in the future. The ability to create new things from scratch always fascinates me. Now, I know that the nearest thing to a inventor this days is being a reseacher
+---
+ 
+<h2 align='center'>Since I was a child, I always want to be an "inventor" as my profession in the future. The ability to create new things from scratch always fascinates me. Now, I know that the nearest thing to a inventor this days is being a reseacher</h2>
+<h3 quote align='center'>Since I was a child, I always want to be an "inventor" as my profession in the future. The ability to create new things from scratch always fascinates me. Now, I know that the nearest thing to a inventor this days is being a reseacher</h3 quote>
+ 
+---
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
