@@ -1,10 +1,11 @@
-<h1 align="center">Backend & Quantum developer & dotQ-research executive</h1>
+<h1 align="center" style="font-family: brush script mt, cursive;">Backend & Quantum developer & dotQ-research executive</h1>
 
 ---
  
 <h5 align='center'><i>"Since I was a child, I always want to be an "inventor" as my profession in the future. The ability to create new things from scratch always fascinates me. Now, I know that the nearest thing to a inventor this days is being a reseacher"</i></h5>
  
 ---
+### My favourites programming languajes/libraries:
 
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="100" height="100"/>&nbsp;
@@ -24,8 +25,8 @@
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=EnriqueAnguianoVara&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=EnriqueAnguianoVara&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueAnguianoVara&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=EnriqueAnguianoVara&hide_border=false)
 
 
 ---
