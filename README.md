@@ -5,24 +5,6 @@
 <h5 align='center'><i>"Since I was a child, I always want to be an "inventor" as my profession in the future. The ability to create new things from scratch always fascinates me. Now, I know that the nearest thing to a inventor this days is being a reseacher"</i></h5>
  
 ---
-### My favourites programming languajes/libraries:
-
-<div align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="100" height="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="100"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="100"/>&nbsp;
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/1200px-Qiskit-Logo.svg.png" width="100"/>&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbHuxKIeZyCaG4C8MEfTC1gDTptSxhgerq7A&usqp=CAU" width="100"/>&nbsp;
-<img src="https://repository-images.githubusercontent.com/114306758/2566b800-6601-11e9-9f2d-36d3354da949" height="100"/>&nbsp;
-
-</div>
-
----
 
 ![](https://github-readme-stats.vercel.app/api?username=EnriqueAnguianoVara&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueAnguianoVara&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
