@@ -6,22 +6,6 @@
  
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=EnriqueAnguianoVara&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueAnguianoVara&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=EnriqueAnguianoVara&hide_border=false)
-
-
----
-### Certifications & Challenges
-<div align="center">
- <img src="./credly/variational-algorithm-design.png"/>&nbsp;
-<img src="./credly/ibm-quantum-challenge-spring-2023-achievement.png"/>&nbsp;
-<img src="./credly/python-for-data-science.png" height="161"/>&nbsp;
-<img src="./credly/machine-learning-with-python-level-1.png" height="161"/>&nbsp;
-</div>
-
-
-
 
 
 
