@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: brush script mt, cursive;">Backend & Quantum developer | UAM Founder & President of Competitive Programming Association </h1>
+<h1 align="center" style="font-family: brush script mt, cursive;">Backend & Quantum developer | UAM Founder & President of Competitive Programming & research Association | iQuHack'26 Winner | IQM Quantum Hack Winner</h1>
 
 ---
  
